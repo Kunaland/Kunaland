@@ -2,7 +2,7 @@
 
 ━━━━⊱⋆⊰━━━━
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Federant&duration=3500&pause=500&color=F77927&center=true&vCenter=true&width=435&lines=And+if+a+double-decker+bus;Crashes+into+us;To+die+by+your+side;Is+such+a+heavenly+way+to+die;%E2%9D%A4%EF%B8%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Federant&duration=4500&pause=500&color=F77927&center=true&vCenter=true&width=600&lines=And+if+a+double-decker+bus+crashes+into+us;To+die+by+your+side+is+such+a+heavenly+way+to+die;%E2%9D%A4%EF%B8%8E%E2%81%A0" alt="Typing SVG" /></a>
 
 ────⚔︎────
 
